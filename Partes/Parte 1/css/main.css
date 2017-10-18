@@ -1,5 +1,5 @@
 div {
-  display: block; /*para que mi caja tenga ancho y altura*/
+  display: block;
   width : auto;
   height: 100px;
   background: #F7B617;
