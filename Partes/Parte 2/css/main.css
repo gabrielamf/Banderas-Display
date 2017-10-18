@@ -1,0 +1,16 @@
+div {
+  display: block;
+  width : 220px;
+  height: 120px;
+  background: #F7B617;
+  margin: 10px 10px;
+}
+
+.bloque-medio  {
+  background: #2B2B2B;
+  color:#ffffff;
+}
+
+div p {
+  padding: 10px;
+}

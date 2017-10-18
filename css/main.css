@@ -1,0 +1,19 @@
+h1 {
+  font-family: helvetica;
+}
+
+a {
+  font-family: helvetica;
+  display: inline-block;
+  margin: 20px;
+  background: #ed640d;
+  padding: 10px;
+  text-decoration: none;
+  color: #ffffff;
+  border-radius: 10px;
+}
+
+a:hover {
+  background-color: #2e322d;
+  box-shadow: 0px 3px 0px #f5a200;
+}

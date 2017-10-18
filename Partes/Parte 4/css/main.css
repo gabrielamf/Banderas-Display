@@ -1,0 +1,18 @@
+
+div {
+  display:inline-block;
+  background: #F7B617;
+  margin: 0px 10px;
+
+
+}
+
+.bloque-medio  {
+  background: #2B2B2B;
+  color:#ffffff;
+}
+
+div p {
+  padding: 0px 15px ;
+
+}
